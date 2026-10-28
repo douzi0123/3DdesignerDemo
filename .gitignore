@@ -31,3 +31,11 @@ pnpm-debug.log*
 /*.png
 /*.yaml
 download-source.cjs
+
+# 源码工程（实际开发在 designer/ 下，和 /src/ 一样不托管）
+/designer/
+
+# 本地产物：验证截图、源码压缩包
+/shots/
+/*.zip
+/public/
