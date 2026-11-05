@@ -39,3 +39,7 @@ download-source.cjs
 /shots/
 /*.zip
 /public/
+
+# 内部文档（含部署命令、客户账号、排障手册，不公开）
+/运维手册.md
+/服务流程与职责.md
